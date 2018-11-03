@@ -5,12 +5,13 @@
  * @wordpress-plugin
  * Plugin Name: GoWP Cold Storage
  * Description: Prevents access to all files/assets of inactive plugins
- * Version:     1.0.0
- * Requires:    1.5.0
- * Tested:      4.9.8
  * Author:      GoWP
  * Author URI:  https://www.gowp.com
  * Text Domain: gowp-cold-storage
+ * Version:     1.0.0
+ * Requires:    1.5.0
+ * Tested:      4.9.8
+ * Update URI:  https://tools.gowp.com/plugins
  */
 
 /* Update Checker */
