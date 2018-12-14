@@ -2,7 +2,7 @@
 Contributors: karpstrucking, another-guy
 Tags: htaccess, themes, plugins, security, assets
 Requires at least: 3.4
-Tested up to: 4.9.8
+Tested up to: 5.0.1
 Requires PHP: 5.6
 Stable tag: trunk
 
